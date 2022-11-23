@@ -1,8 +1,23 @@
-
-p {h3 align="text-justify: ;"
+body {
+    background: #fbe23f;
+	padding: 20px 160px;
+	background-image: linear-gradient(to left, rgba(237, 45, 61, 0.653)), rgb(234, 177, 72), rgb(185, 115, 23);
+}
+p, h1, h2, h3, h4 {align="text-justify: ;"
 }
 
 
 
 body {background: (Gainsboro) ;
+}
+
+.footer {
+	background: #fbe23f;
+	padding: 20px 160px;
+	position: absolute;
+	bottom: 0px; 
+	font-size: 2em;
+	font-weight: bold; 
+	text-align: center;
+
 }

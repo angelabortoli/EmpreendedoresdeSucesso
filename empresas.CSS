@@ -1,7 +1,7 @@
 header {
 	background: #fbe23f;
 	padding: 20px 0;
-	background-image: linear-gradient(to left, rgb(213, 148, 28), rgb(255, 0, 47), blue);
+	background-image: linear-gradient(to left, rgb(230, 54, 41), rgb(239, 218, 142), rgba(237, 91, 47, 0.653));
 
 }
 
@@ -13,11 +13,17 @@ header {
 
 nav {
 	position: relative;
-	top: 0px;
+	top: 50px;
 	height:60px;
-	left: 350px;
+	left: 50px;
 	
 }
+
+.img {
+    height: 250px;
+    width: 350px;
+}
+    
 
 nav li {
 	display: inline;
@@ -37,18 +43,21 @@ nav a {
 }
 
 
-
-
-
-
-
-
-h2,h2{
+h2 {
 	font-size: 30px;
 	margin: 10px;
 	padding: 5px;
 	font-size: 1,5em;
 	font-weight: bold;
+}
+
+h3 {
+    font-size: 20px;
+	margin: 10px;
+	padding: 5px;
+	font-size: 1,5em;
+	font-weight: bold;
+
 }
 
 h1{ 
@@ -67,13 +76,5 @@ p, ul {
 	margin: 4px;
 	padding: 4px;
 }
-
-
-
-
-
-
-
-
 
 

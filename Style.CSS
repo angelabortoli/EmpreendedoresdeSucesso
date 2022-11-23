@@ -1,13 +1,13 @@
 header {
 	background: #fbe23f;
-	padding: 20px 0;
-	background-image: linear-gradient(to left, rgb(213, 148, 28), rgb(255, 0, 47), blue);
+	padding: 5px 0;
+	background-image: linear-gradient(to left, rgb(230, 54, 41), rgb(239, 218, 142), rgba(237, 91, 47, 0.653));
 
 }
 
 .empresas {
 	position:relative;
-	width: 940px;
+	width: 900px;
 	margin: 0 auto;
 }
 
@@ -34,6 +34,20 @@ nav a {
 
 .projeto li {
 	display: inline-block;
+	width: 25%;
+		
+}
+
+.footer {
+	background: #fbe23f;
+	padding: 10px 260px;
+	background-image: linear-gradient(to left, rgba(103, 45, 237, 0.653)), rgb(135, 124, 235), rgb(18, 13, 78);
+	position: absolute;
+	bottom: 0px; 
+	font-size: 2em;
+	font-weight: bold; 
+	text-align: center;
+
 }
 
 
@@ -67,3 +81,13 @@ p, ul {
 	margin: 4px;
 	padding: 4px;
 }
+
+
+
+
+
+
+
+
+
+
